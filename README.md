@@ -29,9 +29,8 @@ Step 7: Save and run the application.
 
 Program to create and design an android application simple calculator using Intent.
 
-Developed by: Siddarth A S
-
-Registeration Number : 212224040316
+Developed by: BalajiT
+Registeration Number : 212225240019
 
 ### AndroidManifest.xml
 ```xml
